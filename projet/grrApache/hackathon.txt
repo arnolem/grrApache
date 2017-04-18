@@ -1,0 +1,10 @@
+PTT 2 slides
+ - Présentation Equipe
+ - Présentation Projet
+ => 5 min
+ 
+ - Question
+ => 5 min
+ 
+ - Retour Hachathon / problématiques
+ => 5 min
